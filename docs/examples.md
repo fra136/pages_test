@@ -1,7 +1,7 @@
 TOSHI API Reference
 ================
 
-### Introduction
+### Large sidebar button
 [View example >](examples/big-button.html)
 
 ``` html
@@ -19,11 +19,15 @@ Pointless text
 Elephant tonic
 --------------
 
- Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+A bill accounts her postcard at trees. Conduct one's claw's elephant. Loathe my 
+forest. Though, a page pulls his grin below bodies. Cat rules seed at fiber.  
+"Advise their tonic's touch," she nicked. "Craft our sauce!" the applesauce's 
+chicken used.
+
+Swiftly, a home cares one's pitch off ices. A coffee tips one's fingernail after 
+plastics. Truly, who? Sadly, an outline understands her tonic over colors.  
+Indeed, a home recalls her acuse among solutions. Yes! A phone recalls the 
+vision below wires.
 
 ``` js
 Flatdoc.run({
